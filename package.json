@@ -1,0 +1,9 @@
+{
+  "name": "client-server-communication",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.2"
+  }
+}
